@@ -1,66 +1,84 @@
-9836272|Canh bao di ra khoi vung|Vung 1|100|100|2015/12/01 00:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|100|100|2015/12/01 00:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|100|100|2015/12/01 00:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|101|100|2015/12/01 01:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|101|100|2015/12/01 01:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|101|100|2015/12/01 01:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|102|100|2015/12/01 02:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|102|100|2015/12/01 02:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|102|100|2015/12/01 02:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|103|100|2015/12/01 03:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|103|100|2015/12/01 03:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|103|100|2015/12/01 03:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|104|100|2015/12/01 04:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|104|100|2015/12/01 04:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|104|100|2015/12/01 04:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|105|100|2015/12/01 05:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|105|100|2015/12/01 05:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|105|100|2015/12/01 05:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|106|100|2015/12/01 06:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|106|100|2015/12/01 06:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|106|100|2015/12/01 06:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|107|100|2015/12/01 07:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|107|100|2015/12/01 07:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|107|100|2015/12/01 07:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|108|100|2015/12/01 08:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|108|100|2015/12/01 08:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|108|100|2015/12/01 08:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|109|100|2015/12/01 09:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|109|100|2015/12/01 09:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|109|100|2015/12/01 09:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|110|101|2015/12/01 10:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|110|101|2015/12/01 10:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|110|101|2015/12/01 10:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|100|102|2015/12/01 11:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|100|102|2015/12/01 11:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|100|102|2015/12/01 11:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|100|103|2015/12/01 12:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|100|103|2015/12/01 12:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|100|103|2015/12/01 12:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|100|104|2015/12/01 13:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|100|104|2015/12/01 13:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|100|104|2015/12/01 13:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|100|105|2015/12/01 14:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|100|105|2015/12/01 14:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|100|105|2015/12/01 14:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|100|106|2015/12/01 15:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|100|106|2015/12/01 15:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|100|106|2015/12/01 15:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|100|107|2015/12/01 16:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|100|107|2015/12/01 16:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|100|107|2015/12/01 16:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|100|108|2015/12/01 17:12:23
-9836272|Canh bao di ra khoi vung|Vung 2|100|108|2015/12/01 17:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|100|108|2015/12/01 17:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|25|108|2015/12/01 18:12:23
-9836272|Canh bao xam nhap vung  |Vung 2|25|108|2015/12/01 18:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|25|108|2015/12/01 18:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|50|100|2015/12/01 19:12:23
-9836272|Canh bao xam nhap vung  |Vung 2|50|100|2015/12/01 19:12:23
-9836272|Canh bao xam nhap vung  |Vung 3|50|100|2015/12/01 19:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|21|125|2015/12/01 20:12:23
-9836272|Canh bao xam nhap vung  |Vung 2|21|125|2015/12/01 20:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|21|125|2015/12/01 20:12:23
-9836272|Canh bao di ra khoi vung|Vung 1|21|125|2015/12/01 21:12:23
-9836272|Canh bao xam nhap vung  |Vung 2|21|125|2015/12/01 21:12:23
-9836272|Canh bao di ra khoi vung|Vung 3|21|125|2015/12/01 21:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|100|100|2015/12/01 00:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|100|100|2015/12/01 00:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|100|100|2015/12/01 00:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|101|100|2015/12/01 01:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|101|100|2015/12/01 01:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|101|100|2015/12/01 01:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|102|100|2015/12/01 02:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|102|100|2015/12/01 02:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|102|100|2015/12/01 02:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|103|100|2015/12/01 03:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|103|100|2015/12/01 03:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|103|100|2015/12/01 03:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|104|100|2015/12/01 04:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|104|100|2015/12/01 04:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|104|100|2015/12/01 04:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|105|100|2015/12/01 05:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|105|100|2015/12/01 05:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|105|100|2015/12/01 05:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|106|100|2015/12/01 06:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|106|100|2015/12/01 06:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|106|100|2015/12/01 06:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|107|100|2015/12/01 07:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|107|100|2015/12/01 07:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|107|100|2015/12/01 07:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|108|100|2015/12/01 08:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|108|100|2015/12/01 08:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|108|100|2015/12/01 08:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|109|100|2015/12/01 09:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|109|100|2015/12/01 09:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|109|100|2015/12/01 09:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|110|101|2015/12/01 10:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|110|101|2015/12/01 10:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|110|101|2015/12/01 10:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|100|102|2015/12/01 11:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|100|102|2015/12/01 11:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|100|102|2015/12/01 11:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|100|103|2015/12/01 12:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|100|103|2015/12/01 12:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|100|103|2015/12/01 12:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|100|104|2015/12/01 13:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|100|104|2015/12/01 13:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|100|104|2015/12/01 13:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|100|105|2015/12/01 14:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|100|105|2015/12/01 14:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|100|105|2015/12/01 14:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|100|106|2015/12/01 15:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|100|106|2015/12/01 15:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|100|106|2015/12/01 15:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|100|107|2015/12/01 16:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|100|107|2015/12/01 16:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|100|107|2015/12/01 16:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|100|108|2015/12/01 17:12:23
+9836272|Canh bao di ra khoi vung |Vung 2|100|108|2015/12/01 17:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|100|108|2015/12/01 17:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|25|108|2015/12/01 18:12:23
+9836272|Canh bao xam nhap vung |Vung 2|25|108|2015/12/01 18:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|25|108|2015/12/01 18:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|50|100|2015/12/01 19:12:23
+9836272|Canh bao xam nhap vung |Vung 2|50|100|2015/12/01 19:12:23
+9836272|Canh bao xam nhap vung |Vung 3|50|100|2015/12/01 19:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|21|125|2015/12/01 20:12:23
+9836272|Canh bao xam nhap vung |Vung 2|21|125|2015/12/01 20:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|21|125|2015/12/01 20:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|21|125|2015/12/01 21:12:23
+9836272|Canh bao xam nhap vung |Vung 2|21|125|2015/12/01 21:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|21|125|2015/12/01 21:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|21|125|2015/12/01 22:12:23
+9836272|Canh bao xam nhap vung |Vung 2|21|125|2015/12/01 22:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|21|125|2015/12/01 22:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|21|125|2015/12/01 23:12:23
+9836272|Canh bao xam nhap vung |Vung 2|21|125|2015/12/01 23:12:23
+9836272|Canh bao di ra khoi vung |Vung 3|21|125|2015/12/01 23:12:23
+9836272|Canh bao di ra khoi vung |Vung 1|21|125|2015/12/01 23:18:23
+9836272|Canh bao xam nhap vung |Vung 2|21|125|2015/12/01 23:18:23
+9836272|Canh bao di ra khoi vung |Vung 3|21|125|2015/12/01 23:18:23
+9836272|Canh bao di ra khoi vung |Vung 1|21|125|2015/12/01 23:22:23
+9836272|Canh bao xam nhap vung |Vung 2|21|125|2015/12/01 23:22:23
+9836272|Canh bao di ra khoi vung |Vung 3|21|125|2015/12/01 23:22:23
+9836272|Canh bao di ra khoi vung |Vung 1|21|125|2015/12/01 23:22:23
+9836272|Canh bao xam nhap vung |Vung 2|21|125|2015/12/01 23:22:23
+9836272|Canh bao di ra khoi vung |Vung 3|21|125|2015/12/01 23:22:23
+9836272|Canh bao di ra khoi vung |Vung 1|21|125|2015/12/01 23:33:23
+9836272|Canh bao xam nhap vung |Vung 2|21|125|2015/12/01 23:33:23
+9836272|Canh bao di ra khoi vung |Vung 3|21|125|2015/12/01 23:33:23

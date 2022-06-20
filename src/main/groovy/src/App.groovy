@@ -3,12 +3,37 @@
  */
 package src
 
+import src.constant.Constant
+import src.file.FileHandle
+import src.file.impl.ReadAreaFile
+import src.model.Area
+import src.model.Ship
+import src.thread.CheckPositionThread
+import src.thread.ShipReaderThread
+import src.thread.WriteAttentionThread
+
+import java.util.concurrent.ArrayBlockingQueue
+import java.util.concurrent.BlockingQueue
+import java.util.concurrent.ExecutorService
+import java.util.concurrent.Executors
+
 class App {
-    String getGreeting() {
-        return 'Hello world.'
-    }
+    public static BlockingQueue<Ship> SHIP_BLOCKING_QUEUE = new ArrayBlockingQueue<>(10000)
+    public static BlockingQueue<String> ATTENTION_BLOCKING_QUEUE = new ArrayBlockingQueue<>(100)
+    static final FileHandle fileHandle = new ReadAreaFile()
+    public static List<Area> AREAS = new ArrayList<>()
 
     static void main(String[] args) {
-        println new App().greeting
+        AREAS = fileHandle.readFile(Constant.AREA_FILE_PATH)
+
+        ExecutorService executorService = Executors.newFixedThreadPool(10)
+
+        CheckPositionThread checkPositionThread = new CheckPositionThread()
+        ShipReaderThread shipReaderThread = new ShipReaderThread()
+        WriteAttentionThread writeAttentionThread = new WriteAttentionThread()
+
+        executorService.execute(shipReaderThread)
+        executorService.execute(checkPositionThread)
+        executorService.execute(writeAttentionThread)
     }
 }
