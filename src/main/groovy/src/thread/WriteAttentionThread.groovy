@@ -1,10 +1,9 @@
 package src.thread
 
-import org.apache.commons.io.FileUtils
+
 import src.App
 import src.constant.Constant
 
-import java.util.logging.Level
 import java.util.logging.Logger
 
 class WriteAttentionThread implements Runnable {

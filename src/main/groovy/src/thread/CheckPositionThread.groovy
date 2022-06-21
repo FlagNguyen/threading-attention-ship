@@ -28,15 +28,15 @@ class CheckPositionThread implements Runnable {
                     if (ship.getLongitude() <= area.getLongitudeRight() && ship.getLongitude() >= area.getLongitudeLeft()
                             && (ship.getLatitude() <= area.getLatitudeTop() && ship.getLatitude() >= area.getLatitudeBottom())) {
 
-                        String attention = getAttention(ship.getShipCode(), ship.getLongitude(), ship.getLatitude(),
+                        String intrusionAttention = getAttention(ship.getShipCode(), ship.getLongitude(), ship.getLatitude(),
                                 ship.getTime(), area.getAreaCode(), true)
-                        println "$attention"
-                        App.ATTENTION_BLOCKING_QUEUE.put(attention)
+                        println "$intrusionAttention"
+                        App.ATTENTION_BLOCKING_QUEUE.put(intrusionAttention)
                     } else {
-                        String attention = getAttention(ship.getShipCode(), ship.getLongitude(), ship.getLatitude(),
+                        String exitAttention = getAttention(ship.getShipCode(), ship.getLongitude(), ship.getLatitude(),
                         ship.getTime(), area.getAreaCode(), false)
-                        println "$attention"
-                        App.ATTENTION_BLOCKING_QUEUE.put(attention)
+                        println "$exitAttention"
+                        App.ATTENTION_BLOCKING_QUEUE.put(exitAttention)
                     }
                 }
             } catch (InterruptedException ex) {
